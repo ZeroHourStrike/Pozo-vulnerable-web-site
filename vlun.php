@@ -45,7 +45,7 @@
                 <i class="fas fa-arrow-right card-icon"></i>
             </div>
         </a>
-        <a href="login1.php" class="card-item">
+        <a href="login.php" class="card-item">
             <img src="img/download.png" alt="Card Image">
             <h3>Sql injection</h3>
             <div class="arrow">
